@@ -138,7 +138,7 @@ In the console transcript above, the output of installing BATS is not shown.
 
 ## See also
 
-Debian/Ubuntu users can take a look at [Debops](https://galaxy.ansible.com/debops/)'s [Dnsmasq role](https://galaxy.ansible.com/debops/dnsmasq/).
+Debian/Ubuntu users can take a look at [Ofenweb's](https://github.com/Oefenweb)'s [Dnsmasq role](https://github.com/Oefenweb/ansible-dnsmasq).
 
 ## Contributing
 
